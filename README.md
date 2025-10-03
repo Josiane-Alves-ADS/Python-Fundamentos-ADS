@@ -23,13 +23,12 @@ O objetivo é demonstrar a evolução das habilidades, desde a lógica fundament
 
 Este módulo estabelece a base de toda a lógica de programação.
 
-| Pasta | Conteúdo Demonstrado |
-| :--- | :--- |
-| **01_Tipos_e_Variaveis** | Declaração de variáveis, uso de `type()` e f-string. |
-| **02_Estruturas_Condicionais** | Uso de `if/else`, `elif`, condições complexas e scripts interativos. |
-| **03_Estruturas_de_Repeticao** | Implementação de loops `for` e `while`, uso de `range()`, e controle de fluxo (`break` e `continue`). |
-| **04_Funcoes** | Definição de funções com `def`, uso de `return` e funções anônimas (`lambda`). |
-
+| Pasta | Tópico | Status |
+| :--- | :--- | :--- |
+| **01_Fund_Tipos_e_Variaveis** | Declaração de variáveis, uso de `type()` e f-string. | ✅ Completo |
+| **02_Fund_Estruturas_Condicionais** | Uso de `if/else`, `elif`, condições complexas e scripts interativos. | ✅ Completo |
+| **03_Fund_Estruturas_de_Repeticao** | Implementação de loops `for` e `while`, controle de fluxo. | ✅ Completo |
+| **04_Fund_Funcoes** | Definição de funções com `def`, uso de `return` e funções anônimas (`lambda`). | ✅ Completo |
 ---
 
 ### Módulo 2: Estruturas de Dados, Classes e Módulos (Concluído)
