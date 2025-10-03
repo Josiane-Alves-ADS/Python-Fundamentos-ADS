@@ -13,7 +13,7 @@ O objetivo é demonstrar a evolução das habilidades, desde a lógica fundament
 | **Fundamentos** | Tipos de dados, condicionais (`if/elif`), repetição (`for/while`), funções (`def/lambda`). | ✅ Completo |
 | **Estrutura** | Estruturas de Dados Nativas, Programação Orientada a Objetos (POO), Modularização. | ✅ Completo |
 | **Data Science** | Conexão com DB (SQLite), Manipulação e Visualização de Dados (Pandas/Seaborn). | ✅ Completo |
-| **Aplicações** | Programação Web, Mobile, Testes e Machine Learning. | 🔜 Em Breve |
+| **Aplicações** | Programação Web, Mobile, Testes e Machine Learning. | ✅ Concluído |
 
 ---
 
@@ -29,6 +29,7 @@ Este módulo estabelece a base de toda a lógica de programação.
 | **02_Fund_Estruturas_Condicionais** | Uso de `if/else`, `elif`, condições complexas e scripts interativos. | ✅ Completo |
 | **03_Fund_Estruturas_de_Repeticao** | Implementação de loops `for` e `while`, controle de fluxo. | ✅ Completo |
 | **04_Fund_Funcoes** | Definição de funções com `def`, uso de `return` e funções anônimas (`lambda`). | ✅ Completo |
+
 ---
 
 ### Módulo 2: Estruturas de Dados, Classes e Módulos (Concluído)
@@ -68,8 +69,22 @@ Foco na aplicação de Python para análise e apresentação de dados.
 
 ---
 
-## 🚀 Próximo Passo
+## 🛠️ Atividades Práticas Oficiais (Entregáveis)
 
-Três módulos essenciais concluídos! O próximo passo é iniciar o **Módulo 4: Aplicações Avançadas**.
+Repositório dos códigos desenvolvidos para os relatórios das Aulas Práticas, separando os entregáveis dos tópicos de estudo.
+
+| Arquivo | Descrição da Atividade | Status |
+| :--- | :--- | :--- |
+| **ATVS_PRATICAS_RELATORIOS** | 4 códigos-fonte de projetos obrigatórios (Gestão de Notas, Gerenciamento de Livros, Análise de Vendas, Classificação ML). | ✅ Concluído |
+
+---
+
+## 🎉 Portfólio Concluído!
+
+Este repositório está **100% completo** e reflete a demonstração integral de 14 tópicos de estudo e 4 projetos práticos em Python, abrangendo:
+
+* **Fundamentos** e **Estruturas de Dados/POO**
+* **Data Science** (Pandas, Visualização, SQLite)
+* **Aplicações Avançadas** (Web, Mobile, Testes e Machine Learning)
 
 ---
