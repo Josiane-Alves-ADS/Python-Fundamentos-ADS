@@ -55,16 +55,16 @@ Foco na aplicação de Python para análise e apresentação de dados.
 
 ---
 
-### Módulo 4: Aplicações Avançadas (Em Breve)
+### Módulo 4: Aplicações Avançadas (Concluído)
 
 Último módulo focado em levar o Python para cenários de aplicação profissional.
 
 | Pasta | Tópico | Status |
 | :--- | :--- | :--- |
-| **11_Programacao_Web** | Introdução ao desenvolvimento de back-end com Python. | 🔜 Em Breve |
-| **12_Programacao_Mobile** | Fundamentos de desenvolvimento de aplicativos móveis. | 🔜 Em Breve |
-| **13_Testes_e_Qualidade** | Uso de frameworks de testes e garantia de qualidade de código. | 🔜 Em Breve |
-| **14_Machine_Learning** | Introdução a modelos de aprendizado de máquina com bibliotecas. | 🔜 Em Breve |
+| **11_Programacao_Web** | Fundamentos de Front-end (HTML/CSS) e estrutura básica de Back-end (Flask). | ✅ Completo |
+| **12_Programacao_Mobile** | Desenvolvimento de interfaces móveis com KivyMD (Layouts e Widgets). | ✅ Completo |
+| **13_Testes_e_Qualidade** | Introdução a testes unitários usando assert, doctest e unittest. | ✅ Completo |
+| **14_Machine_Learning** | Fundamentos de ML (Supervisionado, Não Supervisionado, por Reforço) com TensorFlow. | ✅ Completo |
 
 ---
 
