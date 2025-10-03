@@ -69,13 +69,13 @@ Foco na aplicação de Python para análise e apresentação de dados.
 
 ---
 
-## 🛠️ Atividades Práticas Oficiais (Entregáveis)
+## 🛠️ Atividades Práticas Oficiais
 
-Repositório dos códigos desenvolvidos para os relatórios das Aulas Práticas, separando os entregáveis dos tópicos de estudo.
+Repositório dos códigos desenvolvidos para os relatórios das Aulas Práticas, separando os projetos dos tópicos de estudo.
 
-| Arquivo | Descrição da Atividade | Status |
+| Pasta | Tópico | Status |
 | :--- | :--- | :--- |
-| **ATVS_PRATICAS_RELATORIOS** | 4 códigos-fonte de projetos obrigatórios (Gestão de Notas, Gerenciamento de Livros, Análise de Vendas, Classificação ML). | ✅ Concluído |
+| **ATVS_PRATICAS_RELATORIOS** | **4 Projetos Práticos Obrigatórios** (Módulos 1 a 4) | ✅ Concluído |
 
 ---
 
